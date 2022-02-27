@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from one of the persons under censure of Parliament, written upon the publishing of his Majesties late speech in the Vpper-House, with an answer thereunto.</title>
+            <author>W. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88885</idno>
+            <idno type="STC">Wing L91</idno>
+            <idno type="STC">Thomason E765_5</idno>
+            <idno type="STC">ESTC R207139</idno>
+            <idno type="EEBO-CITATION">99866210</idno>
+            <idno type="PROQUEST">99866210</idno>
+            <idno type="VID">118475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E765[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from one of the persons under censure of Parliament, written upon the publishing of his Majesties late speech in the Vpper-House, with an answer thereunto.</title>
+                  <author>W. L.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Shears,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.L.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118475:1" rendition="simple:additions"/>
+            <p>A LETTER From one of the PERSONS Under cenſure of Parliament, Written upon the publiſhing of his Majeſties late Speech in the Vpper-Houſe, With an Anſwer thereunto.</p>
+            <figure>
+               <head>W S</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Shears,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:118475:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARET VIRTVTEM</q>
+                  <figDesc>a device consisting of an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>A Letter from one of the Perſons un<g ref="char:EOLhyphen"/>der cenſure of Parliament, written up<g ref="char:EOLhyphen"/>on the publiſhing of his Majeſties late Speech in the Upper-Houſe<lb/> To his Friend at <hi>Oxford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſties Speech, which I ſend you here encloſed, as it is the only theame of our diſ<g ref="char:EOLhyphen"/>courſe, in theſe parts, ſo it ſhall ever be the ſubject of my grate<g ref="char:EOLhyphen"/>full remembrance, and now the argument of my Letter.</p>
+            <p>As the goodneſſe of God was manifeſted in the great Act of our redemption, ſo was his wiſdome in the ſeaſonableneſſe of the Act, which having firſt ſhewed us our heavy doom, then opened unto us a door of Mercy, by whoſe ex<g ref="char:EOLhyphen"/>ample his Vicegerent (for ſuch he ever was, and now appears,) hath permitted us to be acquainted with our Ruine, that by a due ſenſe of our condition, under the Law, we might be prepared to value his pardon,
+<pb n="2" facs="tcp:118475:3" rendition="simple:additions"/>and our deliverance: I ſhall freely in my owne words, deliver the ſenſe, I hope, of thouſands, his Majeſty knows how to conquer; for in one peace<g ref="char:EOLhyphen"/>able action, he hath won many battels, by enlarging us, he multiplies our captivity, and makes us more his priſoners, then we could have been in the Tower, and if hereafter we forget ſuch a bounden duty, may our names be at once recorded in the book of Infa<g ref="char:EOLhyphen"/>my, and blotted out of the book of Life; The Par<g ref="char:EOLhyphen"/>liament, in their late Votes, procceeded with ſuch freedome, juſtice, and moderation, that not any, the moſt concerned, could or durſt appeal but the KING, hath, alone, the glory of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great ſinceri<g ref="char:EOLhyphen"/>ty in exceeding his own promiſes and our hopes, modeſty in referring his own Intereſt, to the Par<g ref="char:EOLhyphen"/>liament, and above all, Clemency; in intercept<g ref="char:EOLhyphen"/>ing ſo deſerved a ſentence; Certainly, his Majeſty, hath an invinceable evidence of his vertue, whilſt his actions are thus exalted by his enemies, and cen<g ref="char:EOLhyphen"/>ſured of nothing but too much generoſity, by a few intemperate royaliſts, whoſe eyes, it ſeemes, are e<g ref="char:EOLhyphen"/>vill, becauſe his Majeſties is good, who, methinks ſhould be better ſatisfied, if they conſider, how their Victory is therby compleated, his Majeſties Throne eſtabliſhed, and he, by Gods bleſſing, better enabled in due time to reward their merits, then he could have been by exacting the utmoſt forfeitures. This indeed was the right way for his Majeſties cauſe to prevaile, and extinguiſh, even the brands, and embers of faction, whilſt thoſe, who ſought for Par<g ref="char:EOLhyphen"/>liaments, againſt him, now flee to him from the Parliament, the moſt Fanatick of Common-wealths men being taught to reverence the name of a KING, and confeſſe, there might be more, and bet<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:118475:3" rendition="simple:additions"/>uſe of his prerogative, then they dreamt of: Thus, betwixt the loyalty and gratitude of his people, he will I am confident, need neither guard for his Per<g ref="char:EOLhyphen"/>ſon, nor taſter for his Meat, (but for faſhion ſake) being protected by his Majeſty, his innocency, and his benefits, and may expect ſuch ſecurity among us, as no earthly power could afford him; which, that he may find anſwerable to our duties, and his deſerts, ſhall be the dayly prayer of, <hi>Sir,</hi>
+            </p>
+            <closer>
+               <signed>His Majeſties faithfull Beads-man, and your humble ſervant, <hi>W. L.</hi>
+               </signed>
+               <dateline>London, <date>Iuly 28. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from <hi>Oxford</hi> in anſwer to the former Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Read both his Majeſties Speech, and your Letter, with much ſatisfaction, finding in the one, I hope, a ſolid foundation of our future ſettlement, in the other an honourable ſenſe of his Majeſties unparaleld Clemen<g ref="char:EOLhyphen"/>cy; and though I cannot chuſe, but fancy to my ſelfe, too vaſt an inequality; I reflect, how even ſuch as could afford others no juſtice, now, themſelves find mercy, and thoſe
+<pb n="4" facs="tcp:118475:4"/>who are full of our ſpoyls, march off, as it were, with bag, and baggage, the very thought whereof not only raiſes my ſpleen, but perplexes my mind, for that, (beſides the ſee<g ref="char:EOLhyphen"/>ming ſcandall,) the conſequence is really dangerous, both in the diſcouragement of loyalty, and emboldning of future inſolencies; yet ſince, I beleeve, the peace of the Nation, now requires it, I ſhall cheerfully ſubmit my intereſt and wiſhes to ſo great an end, above all, ſince his Majeſty who is moſt concern'd, hath declared himſelfe ſo fully and accuratly, I think it time for Subjects no longer to debate the Juſtice or Wiſdome of his Counſell, eſpecially in an act of Grace, which though moſt proper, and ſeaſo<g ref="char:EOLhyphen"/>nable to his enemies, is yet, in ſome degree, neceſſary, e<g ref="char:EOLhyphen"/>ven, to his friends, whoſe future ſecurity (therein inclu<g ref="char:EOLhyphen"/>ded,) ought to ballance their diſ-ſatisfactions.</p>
+            <p>I ſhall not therefore examine the reaſons of this truly Royall Action, but conclude, that his Majeſtie, being more moderate in his Judgement, more charitable in his Cenſure, more generous in his thoughts then we; re<g ref="char:EOLhyphen"/>ſolves to try an experiment; <hi>(viz.)</hi> how the ampleſt of in<g ref="char:EOLhyphen"/>dulgences will work with the greateſt of offenders; wher<g ref="char:EOLhyphen"/>in I can only wiſh him that ſucceſſe which is due to his vertue, or, at leaſt, a better return, then his bleſſed Father found, upon the like, (not to ſay, the ſame) account. And truly, if his Clemency make ſuch impreſſions in o<g ref="char:EOLhyphen"/>thers, as it appeares to have done in you, it is not caſt a<g ref="char:EOLhyphen"/>way. But I feare his Majeſty, hath now, too many Pro<g ref="char:EOLhyphen"/>ſelites, who follow him more for his Loaves then his Do<g ref="char:EOLhyphen"/>ctrine, and will be taught no longer then they are fed: Such, indeed, can promiſe vaſtly, in the tempeſt, but per<g ref="char:EOLhyphen"/>forme nothing, when they are come on ſhoare, like thoſe Leapers, whom our Saviour cleanſed, not one of ten, I doubt, will make ſo much as a bare acknowledgement; Give me leave, <hi>Sir,</hi> therefore, to Catechiſe you, a little not in
+<pb n="5" facs="tcp:118475:4" rendition="simple:additions"/>your own perſon, but in the name of thoſe thouſands, whom you mention.</p>
+            <p>Do your Vows proceed from Chriſtian remorſe, or ſer<g ref="char:EOLhyphen"/>vile fear, are they not a kind of death-bed repentance, when judgement is at your doors, and do you not retaine the will, when you have loſt the power of offending?</p>
+            <p>Are you changed in your principles, and natures, or is the change only of your condition?</p>
+            <p>Would you not have ſate in the ſeates of violence till doomsday, if it had depended only on your own choyce, and would you not ſtill wiſh for the opportunity of new crimes, if you could hope for it?</p>
+            <p>Do you not lye in waite to diſſerve his Majeſty in all things, where you can with ſafety, ſince you cannot break his head, do you not plot and contrive, at leaſt, to bruiſe his heale?</p>
+            <p>Are you not better ſatisfied in his Majeſties preſent Declaration, then you were in his late Reſtitution, and would not the proſperity of <hi>Lambert,</hi> or a fortunate at<g ref="char:EOLhyphen"/>tempt upon his Majeſtie at his Landing, have been more welcome news to you then either?</p>
+            <p>Can you with <hi>Mary Magdalene,</hi> waſh his Majeſties feet with your teares, and wipe them with the haires of your head, or do you love in meaſure, as you are forgi<g ref="char:EOLhyphen"/>ven?</p>
+            <p>Would you with <hi>Zacheus,</hi> if you had wherewithall, re<g ref="char:EOLhyphen"/>ſtore fourefold, for all the goods you have gotten by Extor<g ref="char:EOLhyphen"/>tion, and will you, now make reſtitution, ſo far forth as you are able?</p>
+            <p>Could you be content, to do a weekly pennance, for what is past, or go a yearly Pilgrimage to <hi>Tiburne,</hi> as long, as you live?</p>
+            <p>Will you not ſwallow, digeſt, and void your pardon, as you did thanksgiving dinners, in eight hours that you
+<pb n="6" facs="tcp:118475:5"/>may be ready for another meale, will you not take it for a ſtep to reward?</p>
+            <p>Will you think your ſelves more obliged to his Majeſty, then your fellow ſubjects, and vye ſervices with the moſt zealous of the Royalliſts?</p>
+            <p>If you can clearly anſwer to theſe, and other the like interrogatories, I ſhal rejoyce with you, &amp; for you, Other<g ref="char:EOLhyphen"/>wiſe, I muſt tell you plainly, I feare, his Majeſty hath caſt his Pearles to ſwine, who will turn again, and rent him.</p>
+            <p>
+               <hi>Sir,</hi> I ſhall recommend this argument to your ſerious meditation, and entreat your favourable conſtruction of my freedome, as the trueſt teſtimony of my friendſhip, who really am</p>
+            <closer>
+               <signed>Your affectionate and humble ſervant, <hi>R.E.</hi>
+               </signed>
+               <dateline>Oxon <date>July 31. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
